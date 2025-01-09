@@ -1,0 +1,18 @@
+{
+  "name": "Hello World.txt",
+  "path": "Hello World.txt",
+  "sha": "dfc4e8dba8168c5dee68b375d5980d1dca08faca",
+  "size": 20,
+  "url": "https://api.github.com/repos/MrPapricot/TEST/contents/Hello%20World.txt?ref=main",
+  "html_url": "https://github.com/MrPapricot/TEST/blob/main/Hello%20World.txt",
+  "git_url": "https://api.github.com/repos/MrPapricot/TEST/git/blobs/dfc4e8dba8168c5dee68b375d5980d1dca08faca",
+  "download_url": "https://raw.githubusercontent.com/MrPapricot/TEST/main/Hello%20World.txt",
+  "type": "file",
+  "content": "SGVsbG8gV29ybGQKYWxnbGFnYWc=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/MrPapricot/TEST/contents/Hello%20World.txt?ref=main",
+    "git": "https://api.github.com/repos/MrPapricot/TEST/git/blobs/dfc4e8dba8168c5dee68b375d5980d1dca08faca",
+    "html": "https://github.com/MrPapricot/TEST/blob/main/Hello%20World.txt"
+  }
+}
